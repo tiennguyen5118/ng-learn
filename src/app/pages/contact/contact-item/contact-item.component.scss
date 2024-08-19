@@ -1,0 +1,28 @@
+.mat-mdc-card-outlined{
+    border-radius: 0;
+    border-width: 1px 0 1px 0;
+}
+.mat-mdc-card{
+    padding: 5px;
+}
+.mat-mdc-card-content{
+    padding: 2px;
+    display: flex;
+}
+.mat-mdc-card-content:last-child
+{
+    padding: 0;
+}
+.mat-mdc-card-content:first-child
+{
+    padding: 0;
+}
+.contact-avt{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.contact-name{
+    padding: 5px;
+    cursor: pointer;
+}
